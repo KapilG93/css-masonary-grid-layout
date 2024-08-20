@@ -1,4 +1,4 @@
-# CSS Masonry Grid Layout
+# css Masonry Grid Layout
 
 A lightweight, responsive CSS masonry grid layout for modern web design. This project provides a flexible and easy-to-use grid layout that adapts to various screen sizes without the need for JavaScript.
 
