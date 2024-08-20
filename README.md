@@ -18,7 +18,6 @@ You can include this CSS masonry grid layout in your project in two ways:
 
 Clone the repository:
 
-```bash
 git clone https://github.com/KapilG93/css-masonary-grid-layout.git
 
 Browser Support
