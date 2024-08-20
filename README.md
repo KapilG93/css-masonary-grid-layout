@@ -21,22 +21,13 @@ Clone the repository:
 git clone https://github.com/KapilG93/css-masonary-grid-layout.git
 
 ### 2. Browser Support
-This CSS masonry grid layout is supported in modern browsers, including:
-
->> Chrome
->> Firefox
->> Safari
->> Edge
->> Contributing
+This CSS masonry grid layout is supported in modern browsers
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements or report bugs.
 
-### 3. License
-This project is licensed under the MIT License.
-
-### 4. Acknowledgments
+### 3. Acknowledgments
 Inspired by various CSS grid layouts and modern web design techniques.
 
-### 5. Happy coding! 🎉
+### 4. Happy coding! 🎉
 
 Feel free to adjust the content to suit your project's specifics, such as adding a live demo
